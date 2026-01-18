@@ -90,3 +90,9 @@ npm install
 npm run dev
 ```
 
+## Live URL
+
+Frontend URL: https://ai-resume-frontend-zh38.onrender.com
+Backend API URL: https://ai-resume-analyzer-jp5n.onrender.com
+
+**Note:** Free Render instances may take a few seconds to wake up on first request.
